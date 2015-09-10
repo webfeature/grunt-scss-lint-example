@@ -1,0 +1,5 @@
+default:
+  description: 'SCSS Lint'
+  tasks:
+    - 'scsslint'
+    - 'exec'

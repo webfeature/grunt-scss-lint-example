@@ -1,0 +1,13 @@
+{
+  "name": "grunt-scss-lint-example",
+  "description": "Grunt SCSS Lint Example",
+  "version": "0.1.0",
+  "author": "Christian Fessel",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-exec": "latest",
+    "grunt-scss-lint": "latest",
+    "load-grunt-config": "latest",
+    "load-grunt-tasks": "latest"
+  }
+}

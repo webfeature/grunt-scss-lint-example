@@ -1,0 +1,15 @@
+# IDE configuration
+.idea
+
+# Node
+node_modules
+
+# Bundler
+.bundle
+bundler
+
+# Log
+log
+
+#Gemfile
+Gemfile.lock
