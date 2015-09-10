@@ -12,10 +12,12 @@ Bundler
 
 * 1.10.6
 
-# Installation
+# Installation and execution
 
     gem install bundler
     bundle install --path bundler
+    npm install
+    grunt
     
 # Problems
 
